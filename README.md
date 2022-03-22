@@ -1,5 +1,6 @@
-# Project
-## Automate data pipelines using AWS EMR, S3 & Lambda
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="300"/>
+
+# Project | Automate data pipelines using AWS EMR, S3 & Lambda
 This project automates data pipelines using EMR and Lambda
 
 ## Objectives
